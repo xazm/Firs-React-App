@@ -1,6 +1,14 @@
 .search-bar {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 10px;
   margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.Search {
+  background-color: blue;
+  color: aliceblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }

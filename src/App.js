@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import Input from "./input";
 import SearchBar from "./SearchBar";
+import "./SearchBar.css";
 
 function App() {
   return (
